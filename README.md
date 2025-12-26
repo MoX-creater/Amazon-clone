@@ -67,4 +67,7 @@ src/
 
 You can create any new account using the Sign-Up page. Data is persisted locally in your browser, so you can refresh the page and stay logged in.
 
+## Preview
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b20247c8-2780-4f25-bd93-87e57f0ff4c5" />
+
 
